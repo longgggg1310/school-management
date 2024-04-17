@@ -1,4 +1,4 @@
-package school_management;
+package src;
 
 public class Student implements Account {
     protected String name;

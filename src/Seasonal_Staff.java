@@ -1,6 +1,6 @@
-package package1;
+package src;
 
-import package1.Staff;
+import src.Staff;
 
 public class Seasonal_Staff extends Staff {
     private double priceInDay, workday;

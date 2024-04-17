@@ -1,6 +1,6 @@
-package package1;
+package src;
 
-import package1.Position;
+import src;
 
 public abstract class Staff {
     public String staff_id;
