@@ -1,4 +1,4 @@
-package package1;
+package src;
 
 public enum Position {
     HEAD("HEAD"),

@@ -1,4 +1,4 @@
-package package1;
+package src.school_management;
 
 public enum Lecturer_level {
     Bachelor("Bachelor's degree"),

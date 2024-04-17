@@ -1,4 +1,4 @@
-package package1;
+package src;
 
 public class School {
     private String school_id;
