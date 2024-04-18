@@ -1,4 +1,4 @@
-package package1;
+package src;
 
 public class Operating_Cost implements Payable {
     private String name;

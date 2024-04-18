@@ -2,7 +2,7 @@ package src;
 
 import src.Staff;
 
-public class Seasonal_Staff extends Staff {
+public class Seasonal_Staff extends Staff implements Account{
     private double priceInDay, workday;
 
     public Seasonal_Staff(String staff_name, int staff_birth_year, int staff_id, double priceInDay, double workday) {

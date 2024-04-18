@@ -1,4 +1,4 @@
-package src.school_management;
+package src;
 
 public class main {
     public static void main(String[] args) {
