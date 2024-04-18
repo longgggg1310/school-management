@@ -1,6 +1,6 @@
-package src.school_management;
+package src;
 
-import src.school_management.Lecturer_level;
+import src.Lecturer_level;
 
 public class Lecturer extends Staff implements Account {
     private String field;

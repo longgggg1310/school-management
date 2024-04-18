@@ -1,4 +1,4 @@
-package src.school_management;
+package src;
 
 public interface Account {
     int getBalance();
