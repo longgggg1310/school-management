@@ -105,6 +105,9 @@ The salary, expense, and tuition fee calculations are as follows:
 - `Account`: Interface for managing accounts with methods for getting balance, debiting, and crediting.
 - `Staff`: Abstract class for university staff with methods for getting salary, setting name, and setting year of birth.
 - `Payable`: Interface for managing payments with a method for getting the cost.
+### Observer Design Pattern
+The program utilizes the Observer design pattern to update salary-related information in the SubjectSalary class for staff and lecturers. When the SubjectSalary's state changes, it notifies all observers (staff and lecturers) so they can update their internal state accordingly.
+
 
 ### Conclusion
 
